@@ -3125,3 +3125,325 @@
  fa-youtube; U+F167
  fa-youtube-square; U+F431
  fa-zhihu; U+F63F
+∀ for-all; U+2200
+∂ partial-differential; U+2202
+∃ exists; U+2203
+Ͱ Greek Capital Letter Heta; U+0370
+ͱ Greek Small Letter Heta; U+0371
+Ͳ Greek Capital Letter Archaic Sampi; U+0372
+ͳ Greek Small Letter Archaic Sampi; U+0373
+ʹ Greek Numeral Sign; U+0374
+͵ Greek Lower Numeral Sign; U+0375
+Ͷ Greek Capital Pamphylian Digamma; U+0376
+ͷ Greek Small Pamphylian Digamma; U+0377
+ͺ Greek Ypogegrammeni; U+037A
+ͻ Greek Small Reversed Lunate Sigma Symbol; U+037B
+ͼ Greek Small Dotted Lunate Sigma Symbol; U+037C
+ͽ Greek Small Reversed Dotted Lunate Sigma Symbol; U+037D
+; Greek Question Mark; U+037E
+Ϳ Greek Capital Yot; U+037F
+΄ Greek acute accent (tonos); U+0384
+΅ Greek diaeresis with acute accent; U+0385
+Ά Greek Capital A with acute accent; U+0386
+· Greek Ano Teleia; U+0387
+Έ Greek Capital Epsilon with acute accent; U+0388
+Ή Greek Capital Eta with acute accent; U+0389
+Ί Greek Capital Iota with acute accent; U+038A
+Ό Greek Capital Omicron with acute accent; U+038C
+Ύ Greek Capital Upsilon with acute accent; U+038E
+Ώ Greek Capital Omega with acute accent; U+038F
+ΐ Greek Small Iota with diaeresis and acute accent; U+0390
+Α Greek Capital Alpha; U+0391
+Β Greek Capital Beta; U+0392
+Γ Greek Capital Gamma; U+0393
+Δ Greek Capital Delta; U+0394
+Ε Greek Capital Epsilon; U+0395
+Ζ Greek Capital Zeta; U+0396
+Η Greek Capital Eta; U+0397
+Θ Greek Capital Theta; U+0398
+Ι Greek Capital Iota; U+0399
+Κ Greek Capital Kappa; U+039A
+Λ Greek Capital Lambda; U+039B
+Μ Greek Capital Mu; U+039C
+Ν Greek Capital Nu; U+039D
+Ξ Greek Capital Xi; U+039E
+Ο Greek Capital Omicron; U+039F
+Π Greek Capital Pi; U+03A0
+Ρ Greek Capital Rho; U+03A1
+Σ Greek Capital Sigma; U+03A3
+Τ Greek Capital Tau; U+03A4
+Υ Greek Capital Upsilon; U+03A5
+Φ Greek Capital Phi; U+03A6
+Χ Greek Capital Chi; U+03A7
+Ψ Greek Capital Psi; U+03A8
+Ω Greek Capital Omega; U+03A9
+Ϊ Greek Capital Iota with diaeresis; U+03AA
+Ϋ Greek Capital Upsilon with diaeresis; U+03AB
+ά Greek Small Alpha with acute accent; U+03AC
+έ Greek Small Epsilon with acute accent; U+03AD
+ή Greek Small Eta with acute accent; U+03AE
+ί Greek Small Iota with acute accent; U+03AF
+ΰ Greek Small Upsilon with diaeresis and acute accent; U+03B0
+α Greek Small Alpha; U+03B1
+β Greek Small Beta; U+03B2
+γ Greek Small Gamma; U+03B3
+δ Greek Small Delta; U+03B4
+ε Greek Small Epsilon; U+03B5
+ζ Greek Small Zeta; U+03B6
+η Greek Small Eta; U+03B7
+θ Greek Small Theta; U+03B8
+ι Greek Small Iota; U+03B9
+κ Greek Small Kappa; U+03BA
+λ Greek Small Lambda; U+03BB
+μ Greek Small Mu; U+03BC
+ν Greek Small Nu; U+03BD
+ξ Greek Small Xi; U+03BE
+ο Greek Small Omicron; U+03BF
+π Greek Small Pi; U+03C0
+ρ Greek Small Rho; U+03C1
+ς Greek Small Final Sigma; U+03C2
+σ Greek Small Sigma; U+03C3
+τ Greek Small Tau; U+03C4
+υ Greek Small Upsilon; U+03C5
+φ Gree Small Phi; U+03C6
+χ Greek Small Chi; U+03C7
+ψ Greek Small Psi; U+03C8
+ω Greek Small Omega; U+03C9
+ϊ Greek Small Iota with diaeresis; U+03CA
+ϋ Greek Small Upsilon with diaeresis; U+03CB
+ό Greek Small Omicron with acute accent; U+03CC
+ύ Greek Small Upsilon with acute accent; U+03CD
+ώ Greek Small Omega with acute accent; U+03CE
+Ϗ Greek Capital Kai Symbol; U+03CF
+ϐ Greek Beta Symbol; U+03D0
+ϑ Greek Theta Symbol; U+03D1
+ϒ Greek Upsilon with hook Symbol; U+03D2
+ϓ Greek Upsilon with acute and hook Symbol; U+03D3
+ϔ Greek Upsilon with diaeresis and hook Symbol; U+03D4
+ϕ Greek Phi Symbol; U+03D5
+ϖ Greek Pi Symbol; U+03D6
+ϗ Greek Kai Symbol; U+03D7
+Ϙ Greek Qoppa; U+03D8
+ϙ Greek Small Qoppa; U+03D9
+Ϛ Greek Stigma (letter); U+03DA
+ϛ Greek Small Stigma; U+03DB
+Ϝ Greek Digamma; U+03DC
+ϝ Greek Small Digamma; U+03DD
+Ϟ Greek Koppa; U+03DE
+ϟ Greek Small Koppa; U+03DF
+Ϡ Greek Sampi; U+03E0
+ϡ Greek Small Sampi; U+03E1
+Ϣ Coptic Capital Shei; U+03E2
+ϣ Coptic Small Shei; U+03E3
+Ϥ Coptic Capital Fei; U+03E4
+ϥ Coptic Small Fei; U+03E5
+Ϧ Coptic Capital Khei; U+03E6
+ϧ Coptic Small Khei; U+03E7
+Ϩ Coptic Capital Hori; U+03E8
+ϩ Coptic Small Hori; U+03E9
+Ϫ Coptic Capital Gangia; U+03EA
+ϫ Coptic Small Gangia; U+03EB
+Ϭ Coptic Capital Shima; U+03EC
+ϭ Coptic Small Shima; U+03ED
+Ϯ Coptic Capital Dei; U+03EE
+ϯ Coptic Small Dei; U+03EF
+ϰ Greek Kappa Symbol; U+03F0
+ϱ Greek Rho Symbol; U+03F1
+ϲ Greek Lunate Sigma Symbol; U+03F2
+ϳ Greek Yot; U+03F3
+ϴ Greek Capital Theta Symbol; U+03F4
+ϵ Greek Lunate Epsilon Symbol; U+03F5
+϶ Greek Reversed Lunate Epsilon Symbol; U+03F6
+Ϸ Greek Capital Sho; U+03F7
+ϸ Greek Small Sho; U+03F8
+Ϲ Greek Capital Lunate Sigma Symbol; U+03F9
+Ϻ Greek Capital San; U+03FA
+ϻ Greek Small San; U+03FB
+ϼ Greek Rho with stroke Symbol; U+03FC
+Ͻ Greek Capital Reversed Lunate Sigma Symbol; U+03FD
+Ͼ Greek Capital Dotted Lunate Sigma Symbol; U+03FE
+Ͽ Greek Capital Reversed Dotted Lunate Sigma Symbol k; U+03FF
+† Dagger; U+2020
+∄ exists not; U+2204
+∅ emptyset; U+2205
+∆ Laplace; U+2206
+∇ Nabla; U+2207
+∈ in; U+2208
+∉ not in; U+2209
+∊ small in; U+220a
+∋ contain/reverse in; U+220b
+∌ not contain/reverse in; U+220c
+∍ small contain/reverse in; U+220d
+∎ end of proof/qed; U+220e
+∏ product; U+220f
+∐ coproduct; U+2210
+∑ sum; U+2211
+∓ minus-plus sign; U+2213
+∔ dot plus; U+2214
+∕ division slash; U+2215
+∖ set minus; U+2216
+∗ asterix; U+2217
+∘ ring; U+2218
+∙ bullet; U+2219
+√ root wurzel sqrt; U+221a
+∛ cube root; U+221b
+∜ fourth root; U+221c
+∝ propto; U+221d
+∞ infinity; U+221e
+∥ parallel; U+2225
+∦ no tparallel; U+2226
+∧ logical and; U+2227
+∨ logical or; U+2228
+∩ intersection; U+2229
+∪ union; U+222a
+∫ integral; U+222b
+∬ double integral; U+222c
+∭trippel integral; U+222d
+∮ contour/circle integral; U+222e
+∯ surface/ double circle integral; U+222f
+∰ volume/trippel circle integral; U+2230
+∱ clockwise integral; U+2231
+∲ clockwise contour/ circle integral; U+2232
+∳ anticlockwise contour/ circle integral; U+2233
+⨑ ANTICLOCKWISE INTEGRAL; U+2A11
+ℝ DOUBLE-STRUCK REAL NUMBER (Doublestruck R); U+211D
+ℂ COMPLEX NUMBERS (Doublestruck C); U+2102
+ℕ NATURAL NUMBERS (Doublestruck N); U+2115
+ℙ PRIME NUMBERS (Doublestruck P); U+2119
+ℚ RATIONAL NUMBERS (Doublestruck Q); U+211A
+ℤ INTEGERS (Doublestruck Z); U+2124
+< LESS THAN; U+3C
+> GREATER THAN; U+3E
+≤ LESS THAN OR EQUAL TO; U+2264
+≥ GREATER THAN OR EQUAL TO; U+2265
+± PLUS OR MINUS; U+B1
+≠ NOT EQUALS; U+2260
+÷ DIVISION SIGN; U+F7
+× TIMES X; U+00D7
+− MINUS; U+2212
+⁄ FRACTION SLASH; U+2044
+ƒ FUNCTION ITALIC F; U+192
+⁰ SUPERSCRIPT ZERO; U+2070
+¹ SUPERSCRIPT ON; U+00B9
+² SUPERSCRIPT TW; U+00B2
+³ SUPERSCRIPT THRE; U+00B3
+⁴ SUPERSCRIPT FOUR; U+2074
+⁵ SUPERSCRIPT FIVE; U+2075
+⁶ SUPERSCRIPT SIX; U+2076
+⁷ SUPERSCRIPT SEVEN; U+2077
+⁸ SUPERSCRIPT EIGHT; U+2078
+⁹ SUPERSCRIPT NINE; U+2079
+⁺ SUPERSCRIPT PLUS SIGN; U+207A
+⁻ SUPERSCRIPT MINUS; U+207B
+⁼ SUPERSCRIPT EQUALS SIGN; U+207C
+⁽ SUPERSCRIPT LEFT PARENTHESIS; U+207D
+⁾ SUPERSCRIPT RIGHT PARENTHESIS; U+207E
+ⁱ SUPERSCRIPT LATIN SMALL LETTER I; U+2071
+ⁿ SUPERSCRIPT LATIN SMALL LETTER N; U+207F
+₀ SUBSCRIPT ZERO; U+2080
+₁ SUBSCRIPT ONE; U+2081
+₂ SUBSCRIPT TWO; U+2082
+₃ SUBSCRIPT THREE; U+2083
+₄ SUBSCRIPT FOUR; U+2084
+₅ SUBSCRIPT FIVE; U+2085
+₆ SUBSCRIPT SIX; U+2086
+₇ SUBSCRIPT SEVEN; U+2087
+₈ SUBSCRIPT EIGHT; U+2088
+₉ SUBSCRIPT NINE; U+2089
+₊ SUBSCRIPT PLUS SIGN; U+208A
+₋ SUBSCRIPT MINUS; U+208B
+₌ SUBSCRIPT EQUALS SIGN; U+208C
+₍ SUBSCRIPT LEFT PARENTHESIS; U+208D
+₎ SUBSCRIPT RIGHT PARENTHESIS; U+208E
+ₐ LATIN SUBSCRIPT SMALL LETTER A; U+2090
+ₑ LATIN SUBSCRIPT SMALL LETTER E; U+2091
+ₒ LATIN SUBSCRIPT SMALL LETTER O; U+2092
+ᵢ LATIN SUBSCRIPT SMALL LETTER I; U+1D62
+ᵣ LATIN SUBSCRIPT SMALL LETTER R; U+1D63
+ᵤ LATIN SUBSCRIPT SMALL LETTER U; U+1D64
+ᵥ LATIN SUBSCRIPT SMALL LETTER V; U+1D65
+ₓ LATIN SUBSCRIPT SMALL LETTER X; U+2093
+ᵦ GREEK SUBSCRIPT SMALL LETTER BETA; U+1D66
+ᵧ GREEK SUBSCRIPT SMALL LETTER GAMMA; U+1D67
+ᵨ GREEK SUBSCRIPT SMALL LETTER RHO; U+1D68
+ᵩ GREEK SUBSCRIPT SMALL LETTER PHI; U+1D69
+ᵪ GREEK SUBSCRIPT SMALL LETTER CHI; U+1D6A
+¼ VULGAR FRACTION 1/4 (quarter); U+BC
+½ VULGAR FRACTION 1/2 (half); U+BD
+¾ VULGAR FRACTION 3/4 (three-quarters); U+BE
+⅓ VULGAR FRACTION 1/3 (third); U+2153
+⅔ VULGAR FRACTION 2/3 (two thirds); U+2154
+⅕ VULGAR FRACTION 1/5 (fifths); U+2155
+⅖ VULGAR FRACTION 2/5 (two fifths); U+2156
+⅗ VULGAR FRACTION 3/5 (three fifths); U+2157
+⅘ VULGAR FRACTION 4/5 (four fifths); U+2158
+⅙ VULGAR FRACTION 1/6 (sixths); U+2159
+⅚ VULGAR FRACTION 5/6 (five sisths); U+215A
+⅛ VULGAR FRACTION 1/8 (eighths); U+215B
+⅜ VULGAR FRACTION 3/8 (three eighths); U+215C
+⅝ VULGAR FRACTION 5/8 (five eighths); U+215D
+⅞ VULGAR FRACTION 7/8 (seven eighths); U+215E
+‰ PER MILLE (1/1000th); U+030
+° DEGREE SYMBOL; U+B0
+⊂ SUBSET OF (Sideways U with cap to left); U+2282
+⊃ SUPERSET OF (Sideways U with cap to right); U+2283
+⊄ NOT A SUBSET OF (Subset with Slash); U+2284
+⊅ NOT A SUPERSET OF (Superset with slash); U+2285
+⊆ SUBSET OF OR EQUAL TO (Subset with line below); U+2286
+⊇ SUPERSET OF OR EQUAL TO (Superset with line below); U+2287
+⊈ NEITHER A SUBSET OF NOR EQUAL T; U+2288
+⊉ NEITHER A SUPERSET OF NOR EQUAL T; U+2289
+⊊ SUBSET OF WITH NOT EQUAL T; U+228A
+⊋ SUPERSET OF WITH NOT EQUAL T; U+228B
+⋄ DIAMOND OPERATOR (Possibility; U+22C4
+≃ ASYMPTOTICALLY EQUAL T; U+2243
+≄ NOT ASYMPTOTICALLY EQUAL T; U+2244
+⊌ MULTISET (U with arrow); U+228C
+⊍ MULTISET MULTIPLICATION (U with dot in center); U+228D
+⊎ MULTISET UNION (U with plus in center); U+228E
+⋐ DOUBLE SUBSE; U+22D0
+⋑ DOUBLE SUPERSE; U+22D1
+⋒ DOUBLE INTERSECTIO; U+22D2
+⋓ DOUBLE UNIO; U+22D3
+⋀ N-ARY LOGICAL AN; U+22C0
+⋁ N-ARY LOGICAL O; U+22C1
+⋂ N-ARY INTERSECTION/td>; U+22C2
+⋃ N-ARY UNIO; U+22C3
+⋎ CURLY LOGICAL O; U+22CE
+⋏ CURLY LOGICAL AN; U+22CF
+⊕ CIRCLED PLUS (Direct Sum); U+2295
+⊗ CIRCLED TIMES (Vector Product); U+2297
+⊖ CIRCLED MINU; U+2296
+⊘ CIRCLED DIVISION SLAS; U+2298
+⊥ P TACK (Perpendicular); U+22A5
+≠ NOT EQUALS; U+2260
+≅ APPROXIMATELY EQUA; U+2245
+≈ ALMOST EQUAL (ASYMPTOTIC); U+2248
+≉ NOT ALMOST EQUAL T; U+2249
+∼ TILDE SIMILAR TO; U+223C
+≡ IDENTICAL TO (three lines); U+2261
+≢ NOT IDENTICAL T; U+2262
+≪ MUCH LESS-THA; U+226A
+≫ MUCH GREATER-THA; U+226B
+≮ NOT LESS-THA; U+226E
+≯ NOT GREATER-THA; U+226F
+≰ NEITHER LESS-THAN NOR EQUAL T; U+2270
+≱ NEITHER GREATER-THAN NOR EQUAL T; U+2271
+≲ LESS-THAN OR EQUIVALENT T; U+2272
+≳ GREATER-THAN OR EQUIVALENT T; U+2273
+≴ NEITHER LESS-THAN NOR EQUIVALENT T; U+2274
+≵ NEITHER GREATER-THAN NOR EQUIVALENT T; U+2275
+≶ LESS-THAN OR GREATER-THA; U+2276
+≷ GREATER-THAN OR LESS-THA; U+2277
+≸ NEITHER LESS-THAN NOR GREATER-THA; U+2278
+≹ NEITHER GREATER-THAN NOR LESS-THA; U+2279
+≁ NOT TILD; U+2241
+≂ MINUS TILD; U+2242
+≃ ASYMPTOTICALLY EQUAL T; U+2243
+≄ NOT ASYMPTOTICALLY EQUAL T; U+2244
+≆ APPROXIMATELY BUT NOT ACTUALLY EQUAL T; U+2246
+≇ NEITHER APPROXIMATELY NOR ACTUALLY EQUAL T; U+2247
+≉ NOT ALMOST EQUAL T; U+2249
+≊ ALMOST EQUAL OR EQUAL T; U+224A
+≋ TRIPLE TILD; U+224B
+≌ ALL EQUAL T; U+224C
